@@ -68,3 +68,8 @@ p{
 .box{
     margin:3%;
 }
+
+li{
+    background-color: #ffffff;
+    font-size: 20px;
+}
